@@ -4,8 +4,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-## About Me
-
 I am a **data scientist with three years of experience** specializing in **big data processing, machine learning, and recommendation systems**. Worked on various **product recommendation and relevancy models**, leveraging **R, Python, PySpark, and SQL** to build hybrid approaches.
 
 My expertise spans **recommendations, customer segmentation, demand forecasting, fraud detection, and churn prediction**, where I have implemented scalable **machine learning solutions** to drive business impact. I have also worked extensively on **ETL pipelines, SQL query optimization, and big data processing with PySpark**, ensuring efficient data management for large-scale applications.
@@ -31,4 +29,4 @@ With hands-on experience in **deploying data-driven solutions** and a deep inter
 📍 **Location:** Navi Mumbai, Maharashtra  
 📧 **Email:** siddharthb007@gmail.com  
 📞 **Phone:** +91 8169396054  
-🔗 **LinkedIn:** https://www.linkedin.com/in/siddharth-birajdar/
+🔗 **LinkedIn:** [Siddharth Birajdar](https://in.linkedin.com/in/siddharth-birajdar)
