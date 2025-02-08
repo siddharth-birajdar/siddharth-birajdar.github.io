@@ -4,8 +4,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
 ## About Me
 
 I am a **data scientist with three years of experience** specializing in **big data processing, machine learning, and recommendation systems**. At **Reliance Retail**, I played a key role in developing **product recommendation models for JioMart**, leveraging **R, Python, PySpark, and SQL** to build hybrid approaches that contributed **1.6% of overall product revenue**.
