@@ -6,9 +6,9 @@ order: 4
 
 ## About Me
 
-I am a **data scientist with three years of experience** specializing in **big data processing, machine learning, and recommendation systems**. At **Reliance Retail**, I played a key role in developing **product recommendation models for JioMart**, leveraging **R, Python, PySpark, and SQL** to build hybrid approaches that contributed **1.6% of overall product revenue**.
+I am a **data scientist with three years of experience** specializing in **big data processing, machine learning, and recommendation systems**. Worked on various **product recommendation and relevancy models**, leveraging **R, Python, PySpark, and SQL** to build hybrid approaches.
 
-My expertise spans **customer segmentation, demand forecasting, fraud detection, and churn prediction**, where I have implemented scalable **machine learning solutions** to drive business impact. I have also worked extensively on **ETL pipelines, SQL query optimization, and big data processing with PySpark**, ensuring efficient data management for large-scale applications.
+My expertise spans **recommendations, customer segmentation, demand forecasting, fraud detection, and churn prediction**, where I have implemented scalable **machine learning solutions** to drive business impact. I have also worked extensively on **ETL pipelines, SQL query optimization, and big data processing with PySpark**, ensuring efficient data management for large-scale applications.
 
 Beyond technical development, I am passionate about **explainable AI**, working towards making machine learning models more transparent and interpretable for business stakeholders. My previous work on **size recommendation systems**, achieving **62% accuracy among first-time buyers and 97% coverage for repeat purchasers**, highlighted the need for **efficient feature selection techniques**, an area I continue to explore.
 
