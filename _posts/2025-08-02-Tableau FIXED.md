@@ -28,14 +28,12 @@ Using the formula:
 { FIXED [SKU],[Date]:MIN([QUANTITY]) }
 ```
 
-I was able to instruct Tableau to aggregate sales only at the SKU level, disregarding the category hierarchy. This ensured that each SKU was counted only once, eliminating duplicate counts while still maintaining the structure of my report.
-
-The moment I applied this calculation, the numbers fell into place. Grand total sales figures were now accurate, aligning perfectly with backend reports.
+I was able to instruct Tableau to aggregate sales only at the SKU level, disregarding the category hierarchy. This ensured that each SKU was counted only once, eliminating duplicate counts while still maintaining the structure of my report. The moment I applied this calculation, the numbers fell into place. Grand total sales figures were now accurate, aligning perfectly with backend reports.
 ---
 image:
   path: assets/headers/fixed_function.png
   alt: Fixed Function
-mermaid: true
+  mermaid: true
 ---
 ## The Backend
 
