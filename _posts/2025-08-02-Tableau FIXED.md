@@ -1,7 +1,7 @@
 ---
-title: 'Handling Multi-Level Hierarchy Aggregations in Tableau: FIXED'
+title: 'Handling Multi-Level Hierarchy Aggregations in Tableau FIXED'
 date: 2022-08-02
-categories: ['site','Tableau','Aggregation Functions']
+categories: ['Tableau','Aggregation Functions']
 tags: ['tableau','fuctions','data-analysis','duplication']
 author: Siddharth
 ---
