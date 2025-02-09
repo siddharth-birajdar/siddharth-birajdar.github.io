@@ -3,7 +3,7 @@ title: 'Handling Multi-Level Hierarchy Aggregations in Tableau'
 date: 2022-08-02
 categories: ['Tableau','Aggregation Functions']
 tags: ['tableau','fuctions','data-analysis','duplication']
-author: 'Siddharth'
+author: 'siddharth'
 ---
 
 Tableau is a powerful tool for data visualization and aggregation, helping users uncover insights from complex datasets. However, sometimes the biggest challenges arise not from the tool itself, but from our understanding of how data behaves. I recently faced a unique issue in the retail industry, dealing with sales data for products structured under multiple hierarchies. This problem initially seemed unsolvable, but the solution turned out to be surprisingly simple.
@@ -26,7 +26,7 @@ Using the formula:
 
 I was able to instruct Tableau to aggregate sales only at the SKU level, disregarding the category hierarchy. This ensured that each SKU was counted only once, eliminating duplicate counts while still maintaining the structure of my report. The moment I applied this calculation, the numbers fell into place. Grand total sales figures were now accurate, aligning perfectly with backend reports.\
 
-![Fixed Function Application](../_posts/headers/tableau/fixed_function.png)
+![Fixed Function](/assets/img/posts/tableau/fixed_function.png)
 	
  
 ## The Backend
