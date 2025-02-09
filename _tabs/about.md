@@ -1,6 +1,6 @@
 ### 🚀 About Me  
 
-🔥 Dynamic and results-driven Deputy Manager with a passion for excellence in international project execution and pre-bid management. With 3+ years at **Schneider Electric**, I have successfully led **50+ projects**, streamlining workflows, optimizing procurement, and driving **millions in revenue growth**.  
+🔥 Dynamic and results-driven Deputy Manager with a passion for excellence in international project execution and pre-bid management. With 4+ years in **Electrical Equipment** domain, I have successfully led **50+ projects**, streamlining workflows, optimizing procurement, and driving **millions in revenue growth**.  
 
 ⚡ Skilled in **contract management, SAP-based order execution, and business development**, I excel in high-stakes environments where precision meets customer-centric innovation. My strategic mindset, cross-functional collaboration, and mentoring expertise have been pivotal in **securing multimillion-dollar deals and achieving a 40%+ bid win rate**.  
 
