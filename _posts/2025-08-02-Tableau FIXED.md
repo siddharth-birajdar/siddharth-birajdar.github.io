@@ -57,4 +57,4 @@ With `FIXED`, I was able to produce reliable reports, ensuring stakeholders rece
 
 ## Conclusion
 
-Tableau’s power lies in its flexibility, but with flexibility comes responsibility. Understanding how calculations work under the hood can make all the difference. More insights can be found in the [Tableau Documentation]([https://help.tableau.com/](https://help.tableau.com/current/pro/desktop/en-us/calculations_calculatedfields_lod_fixed.htm)).
+Tableau’s power lies in its flexibility, but with flexibility comes responsibility. Understanding how calculations work under the hood can make all the difference. More insights can be found in the [Tableau Documentation](https://help.tableau.com/current/pro/desktop/en-us/calculations_calculatedfields_lod_fixed.htm).
