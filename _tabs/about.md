@@ -5,6 +5,7 @@ order: 4
 ---
 
 I am a **data scientist with three years of experience** specializing in **big data processing, machine learning, and recommendation systems**. Worked on various **product recommendation and relevancy models**, leveraging **R, Python, PySpark, and SQL** to build hybrid approaches.
+![Post Some](_posts/headers/tableau)
 
 My expertise spans **recommendations, customer segmentation, demand forecasting, fraud detection, and churn prediction**, where I have implemented scalable **machine learning solutions** to drive business impact. I have also worked extensively on **ETL pipelines, SQL query optimization, and big data processing with PySpark**, ensuring efficient data management for large-scale applications.
 
