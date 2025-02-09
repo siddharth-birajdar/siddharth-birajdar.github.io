@@ -1,7 +1,7 @@
 ---
 title: 🚀 About Me  
 icon: fas fa-info
-order: 2
+order: 0
 ---
 
 🔥 Dynamic and results-driven Deputy Manager with a passion for excellence in international project execution and pre-bid management. With 4+ years in **Electrical Equipment** domain, I have successfully led **50+ projects**, streamlining workflows, optimizing procurement, and driving **millions in revenue growth**.  
