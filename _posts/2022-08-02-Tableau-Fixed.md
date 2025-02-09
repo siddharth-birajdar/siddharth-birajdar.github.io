@@ -1,14 +1,10 @@
 ---
-title: 'Handling Multi-Level Hierarchy Aggregations in Tableau FIXED'
+title: 'Handling Multi-Level Hierarchy Aggregations in Tableau FIXED - LOD Expressions'
 date: 2022-08-02
 categories: ['Tableau','Aggregation Functions']
 tags: ['tableau','fuctions','data-analysis','duplication']
 author: Siddharth
 ---
-
-
-
-# Handling Duplicate Aggregations in Tableau Using FIXED LOD Expressions
 
 Tableau is a powerful tool for data visualization and aggregation, helping users uncover insights from complex datasets. However, sometimes the biggest challenges arise not from the tool itself, but from our understanding of how data behaves. I recently faced a unique issue in the retail industry, dealing with sales data for products structured under multiple hierarchies. This problem initially seemed unsolvable, but the solution turned out to be surprisingly simple.
 
