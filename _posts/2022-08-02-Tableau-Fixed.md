@@ -1,5 +1,5 @@
 ---
-title: 'Handling Multi-Level Hierarchy Aggregations in Tableau FIXED - LOD Expressions'
+title: 'Handling Multi-Level Hierarchy Aggregations in Tableau'
 date: 2022-08-02
 categories: ['Tableau','Aggregation Functions']
 tags: ['tableau','fuctions','data-analysis','duplication']
