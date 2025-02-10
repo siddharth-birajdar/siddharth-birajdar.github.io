@@ -8,13 +8,11 @@ order: 0
 
 <h2 id="who-am-i" style="font-family: 'Architects Daughter', cursive;">Who Am I?</h2>
 
-🔥 Dynamic and results-driven Deputy Manager with a passion for excellence in international project execution and pre-bid management. With 4+ years in **Electrical Equipment** domain, I have successfully led **50+ projects**, streamlining workflows, optimizing procurement, and driving **millions in revenue growth**.  
+Hey there! 👋 I’m a results-driven professional who loves making things happen. With 4+ years in project execution and pre-bid management, I’ve led 50+ projects, streamlined processes, and helped drive big wins.
 
-⚡ Skilled in **contract management, SAP-based order execution, and business development**, I excel in high-stakes environments where precision meets customer-centric innovation. My strategic mindset, cross-functional collaboration, and mentoring expertise have been pivotal in **securing multimillion-dollar deals and achieving a 40%+ bid win rate**.  
+I thrive in fast-paced environments where strategy meets execution—whether it’s optimizing workflows, managing contracts, or collaborating across teams to get things done. Winning deals, solving problems, and creating impact? That’s my thing!
 
-🎓 Armed with a **B.Tech in Electrical Engineering from Veermata Jijabai Technological Institute**, I bring a powerful mix of technical acumen and leadership. My toolkit includes **Microsoft Office 365, SAP, Agile/Scrum methodologies, and strategic task delegation**.  
-
-💡 Passionate about **innovation, efficiency, and client success**, I am dedicated to shaping the future of the energy sector with cutting-edge solutions and impactful leadership. Let’s power up together! ⚡
+At the core, I’m all about innovation, efficiency, and working with great people. Let’s connect and make something amazing happen! ⚡🚀
 
 <h2 id="professional-journey" style="font-family: 'Architects Daughter', cursive;">My Professional Journey </h2>
 ![](/assets/img/about/journey.png)
