@@ -19,11 +19,8 @@ At the core, I’m all about innovation, efficiency, and working with great peop
 
 ![ ](/assets/img/about/journey.png)
 
-<a href="/assets/resume/Renuka Dhait.pdf" download="Renuka Dhait Resume">Download Resume</a>
 <!-- This is a button to download the resume -->
-<form method="get" action="/assets/resume/Renuka Dhait.pdf">
-   <button type="submit">Download Resume</button>
-</form>
+
 <div style="text-align: center; margin-top: 20px;">
     <form method="get" action="/assets/resume/Renuka Dhait.pdf">
         <button type="submit" style="
