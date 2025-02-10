@@ -6,7 +6,7 @@ icon: fas fa-info
 order: 0
 ---
 
-<h2 id="headings" style="font-family: 'Architects Daughter', cursive;">Who Am I?</h2>
+<h2 id="who-am-i" style="font-family: 'Architects Daughter', cursive;">Who Am I?</h2>
 
 🔥 Dynamic and results-driven Deputy Manager with a passion for excellence in international project execution and pre-bid management. With 4+ years in **Electrical Equipment** domain, I have successfully led **50+ projects**, streamlining workflows, optimizing procurement, and driving **millions in revenue growth**.  
 
@@ -16,11 +16,11 @@ order: 0
 
 💡 Passionate about **innovation, efficiency, and client success**, I am dedicated to shaping the future of the energy sector with cutting-edge solutions and impactful leadership. Let’s power up together! ⚡
 
-<h2 id="headings" style="font-family: 'Architects Daughter', cursive;">My Professional Journey </h2>
+<h2 id="professional-journey" style="font-family: 'Architects Daughter', cursive;">My Professional Journey </h2>
 ![](/assets/img/about/journey.png)
 
 
-<h2 id="headings" style="font-family: 'Architects Daughter', cursive;">Contact</h2>
+<h2 id="contact" style="font-family: 'Architects Daughter', cursive;">Contact</h2>
 📞 **Contact Me:**  
 📍 Navi Mumbai, Maharashtra-400701  
 📧 rrdhait1974@gmail.com  
