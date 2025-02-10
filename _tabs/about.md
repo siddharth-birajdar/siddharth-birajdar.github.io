@@ -6,7 +6,7 @@ icon: fas fa-info
 order: 0
 ---
 
-## <h2 style="font-family: 'Architects Daughter', cursive;">Who Am I?</h2>
+<h2 id="headings",style="font-family: 'Architects Daughter', cursive;">Who Am I?</h2>
 
 🔥 Dynamic and results-driven Deputy Manager with a passion for excellence in international project execution and pre-bid management. With 4+ years in **Electrical Equipment** domain, I have successfully led **50+ projects**, streamlining workflows, optimizing procurement, and driving **millions in revenue growth**.  
 
