@@ -15,7 +15,7 @@ order: 0
 🎓 Armed with a **B.Tech in Electrical Engineering from Veermata Jijabai Technological Institute**, I bring a powerful mix of technical acumen and leadership. My toolkit includes **Microsoft Office 365, SAP, Agile/Scrum methodologies, and strategic task delegation**.  
 
 💡 Passionate about **innovation, efficiency, and client success**, I am dedicated to shaping the future of the energy sector with cutting-edge solutions and impactful leadership. Let’s power up together! ⚡
-# Contact
+<h2 style="font-family: 'Architects Daughter', cursive;">Contact?</h2>
 📞 **Contact Me:**  
 📍 Navi Mumbai, Maharashtra-400701  
 📧 rrdhait1974@gmail.com  
