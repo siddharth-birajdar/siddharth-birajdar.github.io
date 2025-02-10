@@ -1,7 +1,6 @@
 ---
-layout: post
+layout: about
 toc: true
-post-tail-wrapper: false
 title: 🚀 About Me  
 icon: fas fa-info
 order: 0
