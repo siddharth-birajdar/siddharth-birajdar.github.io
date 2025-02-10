@@ -18,9 +18,9 @@ At the core, I’m all about innovation, efficiency, and working with great peop
 <h2 id="professional-journey" style="font-family: 'Architects Daughter', cursive;">My Professional Journey </h2>
 ![ ](/assets/img/about/journey.png)
 
-<a href="assets/resume/Renuka Dhait.pdf" download="Renuka Dhait Resume">Download Resume</a>
+<a href="/assets/resume/Renuka Dhait.pdf" download="Renuka Dhait Resume">Download Resume</a>
 
-<form method="get" action="assets/resume/Renuka Dhait.pdf">
+<form method="get" action="/assets/resume/Renuka Dhait.pdf">
    <button type="submit">Download Resume</button>
 </form>
 
