@@ -19,11 +19,34 @@ At the core, I’m all about innovation, efficiency, and working with great peop
 ![ ](/assets/img/about/journey.png)
 
 <a href="/assets/resume/Renuka Dhait.pdf" download="Renuka Dhait Resume">Download Resume</a>
-
+<!-- This is a button to download the resume -->
 <form method="get" action="/assets/resume/Renuka Dhait.pdf">
    <button type="submit">Download Resume</button>
 </form>
+<div style="text-align: center; margin-top: 20px;">
+    <form method="get" action="/assets/resume/Renuka Dhait.pdf">
+        <button type="submit" style="
+            background-color: blue; 
+            color: white; 
+            border: none; 
+            padding: 10px 20px; 
+            font-size: 16px; 
+            cursor: pointer; 
+            border-radius: 5px;
+            transition: 0.3s ease-in-out;">
+            Download Resume
+        </button>
+    </form>
+</div>
 
+<style>
+    button:hover {
+        background-color: darkblue; /* Darker shade when hovered */
+        box-shadow: 0px 0px 10px rgba(0, 0, 255, 0.7); /* Glowing effect */
+    }
+</style>
+
+<!-- --------------------------- -->
 
 <h2 id="contact" style="font-family: 'Architects Daughter', cursive;">Contact</h2>
 📞 **Contact Me:**  
