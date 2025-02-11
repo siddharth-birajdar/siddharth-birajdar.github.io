@@ -4,6 +4,8 @@ toc: true
 title: 🚀 About Me  
 icon: fas fa-info
 order: 0
+permalink: /
+
 
 ---
 
