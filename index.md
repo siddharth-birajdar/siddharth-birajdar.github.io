@@ -13,7 +13,9 @@ image:
 <h2 id="who-am-i" style="font-family: 'Architects Daughter', cursive;">Who Am I?</h2>
 
 
-<img src="/assets/img/about/thisisme.jpg" alt="This is me">
+<a href="/assets/img/about/thisisme.jpg" class="popup img-link">
+	<img src="/assets/img/about/thisisme.jpg" alt=" " loading="lazy">
+</a>
 
 Hey there! 👋 I’m a results-driven professional who loves making things happen. With 4+ years in project execution and pre-bid management, I’ve led 50+ projects, streamlined processes, and helped drive big wins.
 
@@ -23,7 +25,9 @@ At the core, I’m all about innovation, efficiency, and working with great peop
 
 <h2 id="professional-journey" style="font-family: 'Architects Daughter', cursive;">My Professional Journey </h2>
 
-<img src="/assets/img/about/journey.png" alt="This is me">
+<a href="/assets/img/about/journey.png" class="popup img-link">
+	<img src="/assets/img/about/journey.png" alt=" " loading="lazy">
+</a>
 
 <!-- This is a button to download the resume -->
 
