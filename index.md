@@ -1,5 +1,5 @@
 ---
-layout: about_updated
+layout: home
 toc: true
 title: 🚀 About Me  
 icon: fas fa-info
