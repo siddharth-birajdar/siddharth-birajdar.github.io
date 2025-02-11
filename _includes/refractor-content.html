@@ -120,9 +120,7 @@
       <!-- add image placeholder -->
       {% assign _left = _left | replace: 'src=', 'data-src=' | replace: ' lqip=', ' data-lqip="true" src=' %}
 
-    {% else %}
-      {% assign _class = _class | append: '' %}
-    {% endif %}
+   
 
     <!-- lazy-load images -->
     {% if _lazyload %}
@@ -154,7 +152,6 @@
           | default: _src
           | prepend: '<a href="'
           | append: '" class="popup img-link '
-          | append: _class
           | append: '">'
         %}
 
