@@ -53,11 +53,15 @@ At the core, I’m all about innovation, efficiency, and working with great peop
 </style>
 <!-- Testimonials------------------------------ -->
 <h2 id="professional-journey" style="font-family: 'Architects Daughter', cursive;">What it's like to work with me? </h2>
-  
-    Renuka is very diligent and hard working person. I have a first hand experience of her ambition and passion towards growing.
-    She will do great in any environment.
 
-                                                                                            _Siddharth Birajdar | Bhadu_
+<div style="background-color: #e0e0e0; padding: 20px; border-radius: 10px; font-size: 18px;">
+  
+  Renuka is very diligent and hard working person. I have a first hand experience of her ambition and passion towards growing.
+  She will do great in any environment.
+  
+  _Siddharth Birajdar | Bhadu_
+</div>
+
 
 <!-- Outside Work------------------------------ -->
 <h2 id="professional-journey" style="font-family: 'Architects Daughter', cursive;">What inspires me? </h2>
