@@ -56,9 +56,10 @@ At the core, I’m all about innovation, efficiency, and working with great peop
 
 <div style="background-color: #e0e0e0; padding: 20px; border-radius: 10px; font-size: 18px;">
   
-  Renuka is very diligent and hard working person. I have a first hand experience of her ambition and passion towards growing.
+  Renuka is very diligent and hard working person. I have a first hand experience of her ambition and passion towards growing.<br>
   She will do great in any environment.
-  
+  <br>
+  <br>
   _Siddharth Birajdar | Bhadu_
 </div>
 
