@@ -64,9 +64,9 @@ At the core, I’m all about innovation, efficiency, and working with great peop
 
 Outside of work I like to spend some time amidst nature in peace and quite. Indulging in sketching and painting I find my creative escape, other times, I just escape ....
 
-<a href="/assets/img/about/about_video.mp4" class="popup video-link">
+<a href="/assets/img/about/scuba.mp4" class="popup video-link">
     <video controls loading="lazy">
-        <source src="/assets/img/about/about_video.mp4" type="video/mp4">
+        <source src="/assets/img/about/scuba.mp4" type="video/mp4">
     </video>
 </a>
 
