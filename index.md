@@ -64,12 +64,21 @@ At the core, I’m all about innovation, efficiency, and working with great peop
 
 Outside of work I like to spend some time amidst nature in peace and quite. Indulging in sketching and painting I find my creative escape, other times, I just escape ....
 
-<a href="/assets/img/about/scuba.mp4" class="popup video-link">
-    <video controls width="360" height="240" loading="lazy" autoplay muted loop playsinline>
-        <source src="/assets/img/about/scuba.mp4" type="video/mp4">
-    </video>
-</a>
+<div style="display: flex; justify-content: center; align-items: center;">
+  <a href="/assets/img/about/scuba.mp4" class="popup video-link">
+      <video controls width="720" height="480" loading="lazy" autoplay muted loop playsinline>
+          <source src="/assets/img/about/scuba.mp4" type="video/mp4">
+      </video>
+  </a>
+</div>
 
+<script>
+    // Set playback speed to 0.75x once the video loads
+    document.addEventListener("DOMContentLoaded", function() {
+        let video = document.getElementById("myVideo");
+        video.playbackRate = 0.75;
+    });
+</script>
 <!-- --------------------------- -->
 
 <h2 id="contact" style="font-family: 'Architects Daughter', cursive;">Contact</h2>
