@@ -59,6 +59,16 @@ At the core, I’m all about innovation, efficiency, and working with great peop
 
                                                                                             _Siddharth Birajdar | Bhadu_
 
+<!-- Outside Work------------------------------ -->
+<h2 id="professional-journey" style="font-family: 'Architects Daughter', cursive;">What inspires me? </h2>
+
+Outside of work I like to spend some time amidst nature in peace and quite. Indulging in sketching and painting I find my creative escape, other times, I just escape ....
+
+<a href="/assets/videos/about_video.mp4" class="popup video-link">
+    <video controls loading="lazy">
+        <source src="/assets/videos/about_video.mp4" type="video/mp4">
+    </video>
+</a>
 
 <!-- --------------------------- -->
 
