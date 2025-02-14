@@ -66,7 +66,7 @@ Outside of work I like to spend some time amidst nature in peace and quite. Indu
 
 <a href="/assets/videos/about_video.mp4" class="popup video-link">
     <video controls loading="lazy">
-        <source src="/assets/videos/about_video.mp4" type="video/mp4">
+        <source src="/assets/img/about/about_video.mp4" type="video/mp4">
     </video>
 </a>
 
