@@ -84,6 +84,8 @@ Outside of work I like to spend some time amidst nature in peace and quite. Indu
         video.playbackRate = 0.75;
     });
 </script>
+
+## PS : Always ask what more!
 <!-- --------------------------- -->
 
 <h2 id="contact" style="font-family: 'Architects Daughter', cursive;">Contact</h2>
