@@ -51,6 +51,14 @@ At the core, I’m all about innovation, efficiency, and working with great peop
         box-shadow: 0px 0px 10px rgba(0, 0, 255, 0.7); /* Glowing effect */
     }
 </style>
+<!-- Testimonials------------------------------ -->
+<h2 id="professional-journey" style="font-family: 'Architects Daughter', cursive;">What it's like to work with me? </h2>
+  
+    Renuka is very diligent and hard working person. I have a first hand experience of her ambition and passion towards growing.
+    She will do great in any environment.
+
+                                                                                            _Siddharth Birajdar | Bhadu_
+
 
 <!-- --------------------------- -->
 
